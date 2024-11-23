@@ -33,6 +33,6 @@ Follow the steps below to set up the project on your local machine:
    npm i 
 
 ### step 4:Run the code 
-   npm start or nodemon server.js
+   npm start or nodemon server.js (u)
 
 
